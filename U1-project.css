@@ -1,0 +1,65 @@
+.header
+{
+    text-align: center;
+    font-size: 45px;
+}
+#b1
+{
+    display: grid;
+    background-color: lightpink;
+    height: 95vh;
+    color: black;
+    font-size: 30px;
+    font-family: 'Patua One', cursive;
+}
+#b2
+{
+    background-color: skyblue;
+    height: 95vh;
+    color: black;
+    font-size: 30px;
+    font-family: 'Patua One', cursive;
+}
+#b3
+{
+    background-color: yellowgreen;
+    height: 95vh;
+    color: black;
+    font-size: 30px;
+    font-family: 'Patua One', cursive;
+}
+a:link
+{
+    color: green;
+}
+a:visited
+{
+    color: brown;
+}
+a:hover
+{
+    color: black;
+}
+a:active
+{
+    color: cyan;
+}
+#f1
+{
+    font-size: 25px;
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.link
+{
+    padding: 0px 10px 5px 10px;
+}
+.top
+{
+    padding: 5px 10px;
+}
